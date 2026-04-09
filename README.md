@@ -1,4 +1,4 @@
-# Automate Kubernetes Version Monitoring for Amazon EKS Clusters
+# Automate Kubernetes cluster version upgrades in Amazon EKS
 
 This project provides automated management of Amazon EKS clusters, including:
 - **Cluster version monitoring and upgrades**
